@@ -15,7 +15,7 @@ public class CustomerController {
     private CustomerData getCustomer(final String userId) {
         CustomerData customer = new CustomerData();
         customer.setEmail("sandakag@gmail.com");
-        customer.setFirstName("Sandaka");
+        customer.setFirstName("Sandaka G");
         customer.setLastName("Wijesinghe");
         customer.setAge(27);
         customer.setId(userId);
